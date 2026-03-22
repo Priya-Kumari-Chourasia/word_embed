@@ -1,0 +1,1348 @@
+B.Tech. Programmes at IIT Jodhpur
+IIT Jodhpur offers eight B.Tech. Programmes, namely,
+
+ 	1. B.Tech. (Bioscience & Bioengineering)	 
+ 	2. B.Tech. (Computer Science & Engineering)	 
+ 	3. B.Tech. (Electrical Engineering)	 
+ 	4. B.Tech. (Mechanical Engineering)	 
+ 	5. B.Tech. (AI and Data Science)	 
+ 	6. B.Tech. (Chemical Engineering)	 
+ 	7. B.Tech. (Materials Engineering)	 
+ 	8. B.Tech. (Civil and Infrastructure Engineering)	 
+ 	9. B.Tech. (Electronics Engineering)	 
+ 	 	 
+ 
+For details of Curriculum please visit the page and Program Structure click here .
+
+ 
+UNDERGRADUATE PROGRAMMES OF IITJ: CURRICULUM FOR A GLOBAL ENGINEER
+Indian Institute of Technology Jodhpur is committed to educational excellence through a strong student-focused educational experience and to provide quality education with the contemporary and highly professional curricula. In order to achieve this objective, IIT Jodhpur has undergone thorough curriculum change in the year 2019 and came up with a new curriculum. This article highlights philosophy ingrained in the new curriculum and some salient features.
+ 
+The societal challenges of the 21st century are profound and wide-ranging. Basic needs such as energy, food and water, housing, mobility, and health will become even more acute as the world population exceeds 9 billion. The demands for sustainable development will require redefined and innovative engineering talent and leadership. The emergence of a connected, competitive, and entrepreneurial global economy, in which successful engineers increasingly need technical competency and professional skills that differ from what worked in the past. These reasons build up a clear case for disruptive revision of the undergraduate curriculum.
+ 
+Some of the attributes expected of modern engineers are:
+ 1.	 Flexibility to understand and manage rapidly evolving technologies;
+ 2. 	 Ability to identify, define as well as solve problems;
+ 3. 	 Proficiency in theory and applications;
+ 4. 	 Skill for handling out-of-the-box engineering challenges;
+ 5. 	 Capable of Creative Thinking;
+ 6. 	 Experience of entrepreneurship;
+ 7. 	 Understanding of public policy implications.
+ 	 
+Today the creative function of engineering is expected to be viewed and understood in the broader context of the new patterns of knowledge creation across disciplines obliterating traditional boundaries between science, humanities and social sciences, arts and engineering. IIT Jodhpur has pursued a newer structure of programmes in addition to classical programmes to address these opportunities.
+
+Objectives
+
+The objective of the new curriculum is to define a novel instructional paradigm and content plan to address modern demands of professional education (as outlined above) based upon the philosophy of outcome-based education. The curriculum builds on four guiding principles of outcome-based academic, i.e., 
+
+ 1.	 All students can learn and succeed but maybe not on the same day or in the same way  
+
+ 2.	 Each success by a student breeds more success (success must open up the opportunity of more success)
+
+ 3.	 Academic institutions create and nurture the conditions of success
+
+ 4.	 The academic system acknowledges and respects challenging initiatives without fear of failure.
+
+ 
+
+Unique features of the UG curriculum
+
+Unique features of the undergraduate curriculum are highlighted next:
+
+The curriculum emphasized the fundamentals of basic and engineering sciences to enable learners to have a broader multi-disciplinary perspective for the specialisation being pursued. Departmental courses focus on fundamental scientific principles behind technologies.
+Avenues created for pursuing co-curricular and extra-curricular creative interests as an integral component of the curricular content by introducing nongraded courses on social connect, performing arts, and communication skills. As an outcome of these pursuits, a student is expected to improve their capacity to imagine and to build up enthusiasm to pursue unknown territories through purely creative ventures.
+
+
+Early design courses are introduced which focus more heavily on conceptual design methods and less on discipline-specific artefacts. These courses teach that design is open-ended; that there are numerous engineering challenges beyond domains of traditional disciplines, and that students could begin to think and work like engineers.
+Avenues created for making students continuously engaged in these intellectual processes throughout the curriculum and at an increasingly sophisticated level through design credits. Such continual integrative experiences help students to expand and deepen their “internal knowledge structure” of the discipline, which will aid their eventual retrieval and use. 
+Opportunities and challenges continue to require engineers to literally invent the future by developing breakthrough technologies that solve global problems and enhance the quality of life. Entrepreneurship education has been introduced in the curriculum as a minor which gives them solid experience in product design and development, prototyping, technology trends, and market analysis
+
+
+Options of Department Area Specialisation and five-year B.Tech.+M.Tech. allows students to pursue in-depth study of the topics of interest belonging to the programme. Department Area Specialization in Engineering Innovation has also been introduced with the aim of making students Industry Ready by offering five months Practical Project jointly with an Industry or R & D organization. Students get real-world experience working for an industry or R & D organization on a project that complements their academic experience.
+With the rapid change in the contours of engineering education due to emergence of Miniaturization, Parallelism, Smart Materials, Bio-mimetic Systems, AI and Cognitive Systems, the role of engineering institute is not only preparing students in their major areas of study but also on other skills to encourage interdisciplinary teams to address challenges faced by the society. The emphasis has been laid on the development of technical skills in interdisciplinary areas and upcoming fields by introducing various Interdisciplinary specializations such as AI, CPS, IoT, Robotics, Smart Healthcare, etc.
+With evolving patterns of knowledge creation across disciplines and obliterating traditional boundaries between science and engineering, a capability linked Double B.Tech. with second degree in Engineering Science is introduced to pursue newer structures of programmes in addition to classical programmes to provide ability to apply diverse knowledge and skills flexibly in novel situations.
+
+
+ With changing paradigms of Evaluation and Assessment, the performance of students in a course is evaluated not only thorough examinations but also on a continuous basis which include but not limited to interaction in the classroom interaction, quizzes, assignments, tutorials, laboratory work, term papers and projects. Technology-enabled aids have been assimilated into continuation evaluation as an integrated component. 
+
+
+The finer granularity in grading has been introduced to allow for more precise and fairer grading, provide a more reliable indication of student performance, and give students a better opportunity to improve their grades.
+Throughout the curriculum Efforts have been laid down at building up Strong Foundation, Enabling Continuous Learning, Inter-disciplinary Breadth, Design Thinking, Imbibing Creative and Critical Thinking, Social Responsibility and Professional Ethics, and Sustainability as distinct thematic Commitment.
+
+BS (Physics) with Specialization
+BS (Physics) with Specialization
+Go Back
+
+BS (Physics) with Specialization
+Approved by Senate on 25th April 2022
+Introduction
+Introduction
+Objectives of the program
+Expected Graduate Attributes
+Learning Outcomes
+New skill sets targeted
+Proposed Specialization Areas
+Program Structure
+Program Compulsory Courses
+Semester Wise Courses
+Courses for Semester 1st and 2nd
+Courses for Semester 3rd and 4th
+Courses for Semester 5th and 6th
+Courses for Semester 7th and 8th
+Introduction
+[Back to index]
+The vision of the Department of Physics is to become a globally renowned Academic Hub of Physics for Quality Education, excellence in Scientific Research and Technology Innovation with High Societal and Strategic Impact by excelling in fundamental knowledge and applications of Physics blended with Engineering through curricular and co-curricular activities. In line with this vision, the Department offers an undergraduate program in Physics to attract highly motivated students interested in basic science and cutting-edge technologies in the broad discipline of physics blended with engineering, and wish for a flexible program to consider a variety of challenging career paths through capability-linked specializations in Energy, Photonics and Quantum Technologies.
+
+One of the key salient features of the BS Physics program at the IIT Jodhpur is that the curriculum offers enormous flexibility to students for pursuing capability-linked specializations of their choice. The Department’s core specializations are designed to enable students to lead future technological innovations addressing the emerging industrial and societal challenges in various domains of Energy, Photonics and Quantum Technologies. The students can choose any of the specializations mentioned above depending on their interests. The in-depth understanding of the concepts and technical skills acquired through these program specializations will enable graduates to play a vital role in advancing the technologies such as Flexible Electronics, Green Energy, Terahertz Technology/Communications, Quantum Communications, Smart Energy for smart cities/distributed applications in rural/remote areas, and Smart Healthcare, etc.
+
+Another distinct feature of the program is the provision for minors in Entrepreneurship. This unique feature will allow students to pursue diverse and challenging career options. The curriculum also offers numerous options that enable students to gain industrial experience through collaborative industrial projects at industries and entrepreneurship experience at the Institute’s Incubation Center.
+
+Objectives of the program
+[Back to index]
+An academic path to enter the graduate program, conduct basic and application-oriented advanced scientific research with a broad range of applications, and eventually pursue research or academic profession.
+
+An industrial path to take up the role of a technical leader through lifelong learning.
+An entrepreneurial path to apply the acquired knowledge to develop new products and initiate a Deep Tech Start-up Company.
+Expected Graduate Attributes
+[Back to index]
+The Graduates of the UG program in Physics are expected to have the following attributes:
+
+Strong foundations of fundamental as well as applied concepts of physics enabling to excel in physics driven technologies.
+Ability to acquire new knowledge of physics and integrate with engineering concepts to create new and innovative technologies for current and future applications.
+Ability to apply critical scientific thinking and engineering skills to identify, formulate, and solve complex problems encountered in applied areas blended with engineering practices.
+Ability to apply principles of physics in the domain of Energy materials and devices with a focus on generation, storage and management.
+Ability to engage and actively participate in the upcoming areas of Quantum Information and related research domains of Quantum Technologies.
+Preparedness to participate in future technological developments in photonics and optical communications beyond 5G including Terahertz technology.
+Ability to compete effectively in a world of rapid technological advancements and assume leadership roles within academic, industrial, or entrepreneurial environments in the broad context of fundamental and applied physics blended with engineering skills.
+They will be aware of ethical issues, societal needs, and problems and conduct themselves as responsible professionals.
+Learning Outcomes
+[Back to index]
+The Graduates of the UG program in Physics will be able:
+
+To acquire knowledge of fundamental and applied physics principles along with the required understanding of computing, mathematics, and engineering.
+To create, select, and apply appropriate techniques, resources, and fundamental physics tools to solve complex engineering problems with an understanding of the limitations through laboratory exercises and design projects.
+To apply the concepts of mathematics, physics including Quantum technologies and advanced computing tools, to design complex engineering systems containing hardware and software (including Quantum algorithms) modules.
+To acquire knowledge of fundamental and advanced concepts of Photonics and Teraherz technologies for communications, devices towards medical applications, sensing, quantum technologies, spectroscopy and imaging.
+To gain an in-depth understanding of concepts of materials and devices for energy generation and storage, integration of energy sub-systems and next generation communications.
+To perform a critical literature review and patent landscaping for innovative research.
+To understand professional ethics and social responsibilities.
+To develop technical presentation skills and communicate effectively.
+To develop an attitude for product design and entrepreneurial activities.
+New skill sets targeted
+[Back to index]
+Physics BS students explore subjects critical to advancement in today’s needs-from everyday common know-how to critical problems in different inter/multi-disciplinary domains using the fundamental and applied physics knowledge blended for present and future complex issues/challenges. The acquired knowledge will be helpful in future technologies, including:
+
+Quantum technologies for future Quantum communication and computation
+Terahertz optics, optical fiber communication and photonics for 5G and beyond communications
+Next generation energy materials and devices.
+Entrepreneurship
+Proposed Specialization Areas
+[Back to index]
+Advanced Energy Materials
+Photonics
+Quantum Technologies
+Entrepreneurship
+Program Structure
+[Back to index]
+Credit Distribution
+
+Table-BS_Phy1  (use the horizontal scroll bar to see the full table)
+S.No.	Course Type	Course Category	Credits	Total Credits
+1	Institute Core (I)	Engineering (IE)	29	69
+Science (IS)	18
+Humanities (IH)	12
+2	Program Linked (L)	Program Linked Courses (PL)	10
+3	Program Core (P)	Program Compulsory (PC)	58	61
+Program Elective (PE)	3
+4	Specialization (S)	Specialization Core (SC)	12	30
+Specialization Elective (SE)	18
+5	Non-Graded (N)	Humanities (NH)	6	15
+Engineering (NE)	3
+Design/Practical Experience (ND)	6
+ 	Total	175
+Those who are opting for specialization in Entrepreneurship will be required to earn 10 credits via relevant specialization electives.
+Program Compulsory Courses
+[Back to index]
+Table-BS_Phy_Compulsory  (use the horizontal scroll bar to see the full table)
+S. No.	Course Name & Course Code	LTP	Contact Hours	Credit
+1	Mechanics – I	3-0-0	3	3.0
+2	Mechanics – II	3-0-0	3	3.0
+3	Mathematical Methods for Physicists	3-0-0	3	3.0
+4.	Basic Computational Lab	0-0-3	3	1.5
+5.	Applied Computational Lab	0-0-3	3	1.5
+6.	EM Waves and Fields	3-0-0	3	3.0
+7.	Interaction of Radiation with Matter	2-0-2	4	3.0
+8.	Modern Optics	3-0-0	3	3.0
+9.	Fluids and Plasmas	2-0-2	4	3.0
+10	EM Lab	0-0-3	3	1.5
+11.	Applied Optics Lab	0-0-3	3	1.5
+12.	Thermal Physics	3-0-0	3	3.0
+13.	Solid State Physics	3-0-2	5	4.0
+14.	Electronics	3-0-0	3	3.0
+15.	Semiconducting and Optoelectronic Devices	3-0-2	5	4.0
+16.	Electronics Lab	0-0-3	3	1.5
+17.	Thin Film and Material Characterization Lab	0-0-3	3	1.5
+18.	Physics of Atoms, Molecules and Nuclei	3-0-0	3	3.0
+19.	Nuclear Radiation and Energy	2-0-0	2	2.0
+20.	EM and Neutrino Astronomy	3-0-0	3	3.0
+21.	Modern Physics Lab	0-0-2	2	1.0
+22.	Radiation and Particle Detection Lab	0-0-2	2	1.0
+23	Medical Physics	2-0-0	2	2.0
+24	Entrepreneurship for Physicists	2-0-0	2	2.0
+25	BS Project	0-0-6	6	3.0
+ 	Total	61.0
+Semester Wise Courses
+[Back to index]
+ 
+
+Courses for Semester 1st and 2nd
+[Back to index]
+Table-BSPHY-Sem12  (use the horizontal scroll bar to see the full table)
+1st Semester (BS Physics)	Category	Course Name	L-T-P	Credits	 	2nd Semester (BS Physics)	Category_	Course Name_	L-T-P_	Credits_
+1	IE	EEL1010: Introduction to Electrical Engineering	3-0-2	4	 	1	IE	MEL1010:Engineering Mechanics	2-1-0	3.0
+2	IE	CSL1010: Introduction to Computer Science	3-0-2	4	2	IS	CYL1010:Chemistry	3-0-0	3.0
+3	IE	BBL1010: Introduction to Bioengineering	3-0-2	4	3	IS	PHL:1010 Electromagnetism and OpticsPhysics	3-0-0	3.0
+4	IS	MAL1010: Mathematics 1	3-1-0	4	4	IS	MAL1020: Mathematics II	3-1-0	4.0
+5	IE	MEP1010: Engineering Visualization	0-0-2	1	5	IS	PHP1010:Physics Laboratory	0-0-2	1.0
+6	NE	OAE1010: Engineering Design 1	0-0-2	1	6	IS	CYP1010:Chemistry Lab	0-0-2	1.0
+7	NH	HSN1010: Communication Skill 1	0-0-2	1	7	IE	MEP1020:Engineering Realization	0-0-2	1.0
+8	NH	OSN1010: Social Connect and Responsibilities	0-0-1	0.5	8	NE	OAE1020: Engineering Design II	0-0-2	1.0
+9	NH	OSN1020: Performing Arts 1/ Sports 1	0-0-1	0.5	9	NH	HSN1020:Communication Skill II	0-0-2	1.0
+ 	Total Graded	17	10	NH	OSN1040: Social Connect and Responsibilities	0-0-1	0.5
+ 	Total Non-Graded	3	11	NH	OSN1050: Performing Arts 2/ Sports 2	0-0-1	0.5
+ 	 	 	 	Total Graded	16.0
+ 	 	 	 	Total Non-Graded	3.0
+ 
+
+Courses for Semester 3rd and 4th
+[Back to index]
+Table-BSPHY-Sem34  (use the horizontal scroll bar to see the full table)
+3rd Semester (BS Physics)	Category	Course Name	L-T-P	Credits	 	4th Semester (BS Physics)	Category_	Course Name_	L-T-P_	Credits_
+1	IE	Introduction to Machine Learning	3-0-2	4.0	 	1	IE	Data Structures and Algorithms	3-0-2	4.0
+2	IE	Signals and Systems	3-1-0	4.0	2	PL	Embedded Systems & IoT	3-0-2	4.0
+3	PC	Mechanics I	3-0-0	3.0	3	PC	Mathematical methods for Physicists	3-0-0	3.0
+4	PC	Mechanics II	3-0-0	3.0	4	PC	Modern Optics	3-0-0	3.0
+5	PC	Thermal Physics	3-0-0	3.0	5	PC	EM waves and fields	3-0-0	3.0
+6	PC	Basic Computational Lab	0-0-3	1.5	6	PC	EM Lab	0-0-3	1.5
+7	NE	Intro. To Profession	0-0-2	1.0	7	IH	Humanities I	3-0-0	3.0
+ 	 	 	Total Graded	18.5	 	 	 	Total Graded	21.5
+ 	 	 	Total Non-Graded	1.0	 	 	 	Total Non-Graded	0.0
+ 
+
+Courses for Semester 5th and 6th
+[Back to index]
+Table-BSPHY-Sem56  (use the horizontal scroll bar to see the full table)
+5th Semester (BS Physics)	Category	Course Name	L-T-P	Credits	 	6th Semester (BS Physics)	Category_	Course Name_	L-T-P_	Credits_
+1	PL	Big Data Management	2-0-2	3.0	 	1	PC	Medical Physics	2-0-0	2.0
+2	PL	Communication Systems	3-0-0	3.0	2	PC	Nuclear radiation and Energy	2-0-0	2.0
+3	PC	Physics of atoms, molecules and nuclei	3-0-0	3.0	3	PC	Interaction of radiation with matter	2-0-2	3.0
+4	PC	Electronics	3-0-0	3.0	4	PC	Semiconducting and Optoelectronic Devices	3-0-2	4.0
+5	PC	Solid State Physics	3-0-2	4.0	5	PC	Applied optics Lab	0-0-3	1.5
+6	PC	Electronics Lab	0-0-3	1.5	6	PC	Modern physics Lab	0-0-2	1.0
+7	PC	Thin film & Material Characterization Lab	0-0-3	1.5	7	PC	Radiation and particle detection Lab	0-0-2	1.0
+8	PC	Applied Computational Lab	0-0-3	1.5	8	PC	Entrepreneurship for Physicists	2-0-0	2.0
+9	IH	Humanities II	3-0-0	3.0	9	SC/SE	Specialization Core/Electives	4.0
+10	NH	Professional Ethics I	0-1-0	1.0	 	NH	Professional Ethics II	0-0-2	1.0
+ 	 	 	Total Graded	23.5	 	 	 	Total Graded	20.5
+ 	 	 	Total Non-Graded	1.0	 	 	 	Total Non-Graded	1.0
+ 
+
+Courses for Semester 7th and 8th
+[Back to index]
+Table-BSPHY-Sem78  (use the horizontal scroll bar to see the full table)
+7th Semester (BS Physics)	Category	Course Name	L-T-P	Credits	 	8th Semester (BS Physics)	Category_	Course Name_	L-T-P_	Credits_
+1	PC	Fluids & Plasmas	2-0-2	3	 	1	PC	EM and Neutrino Astronomy	3-0-0	3
+2	PC	BS project	0-0-6	3	2	SC/SE	Specialization Core/Electives	3-0-0	3
+3	SC/SE	Specialization Core/Electives	3-0-0	3	3	SC/SE	Specialization Core/Electives	3-0-0	3
+4	SC/SE	Specialization Core/Electives	3-0-2	4	4	SC/SE	Specialization Core/Electives	3-0-0	3
+5	SC/SE	Specialization Core/Electives	3-0-2	4	5	SC/SE	Specialization Core/Electives	3-0-0	3
+6	IH	Humanities III	3-0-0	3	6	SC/SE	Specialization Core/Electives	3-0-0	3
+7	IS	Environmental Science	2-0-0	2	7	IH	Humanities IV	3-0-0	3
+ 	 	 	Total Graded	22	 	 	 	Total Graded	21
+ 	 	 	Total Non-Graded	0	 	 	
+
+
+
+BS (Chemistry) with Specialization
+BS (Chemistry) with Specialization
+Approved by Senate on 25th April 2022
+Introduction
+Introduction
+Objectives of the program
+Expected Graduate Attributes
+Learning Outcomes
+New skill sets targeted
+Proposed Specialization Areas
+Program Structure
+Program Compulsory Courses
+Semester Wise Courses
+Courses for Semester 1st and 2nd
+Courses for Semester 3rd and 4th
+Courses for Semester 5th and 6th
+Courses for Semester 7th and 8th
+
+Introduction
+[Back to index]
+
+Vision of the Department of Chemistry is to achieve academic excellence and be acknowledged for high quality fundamental, sustainable, and translational research in chemical sciences and allied research areas that addresses continuously evolving current global issues on energy, food, water, and healthcare. Along this line, the department has initiated an engineering-linked four-year undergraduate Bachelor of Science (BS) in chemistry program with specialization in a focused area to attract and foster young and aspiring minds who are driven by curiosity and interested in cutting-edge research and technologies across the disciplines of chemical science. The central theme of this program is science-based engineering innovation and through this undergraduate programme in chemistry at IIT Jodhpur, we are striving to cross the barrier of traditional paths and planning to establish ourselves to become a leading department at the interplay of science and technology. This uniquely blended program is along the line of National Education Policy, as well as the Institute’s vision of holistic development of students.
+
+This undergraduate program is designed to transmit fundamental knowledge in basic science and engineering during the first few semesters, which develops critical analytical thinking and forms the basis of diverse skill sets used by scientists and engineers to innovate, design, and develop technologies for the future. Students undergo comprehensive training in advanced concepts of chemistry for the next two years. The inclusion of a substantial component of courses from other science and engineering departments makes the program quite interdisciplinary in nature. The final year of the curriculum is designed towards specialization in a focused area. The flexibility of opting for different specializations is ingrained in formulating the structure and curriculum of the programme. During this year, the students get to experience the joys and rigors of original research currently being pursued and consider a variety of career paths through capability-linked specializations of their choice. In the specialization, emphasis is given to the emerging areas in Chemistry to meet societal and industrial needs, and ever-growing sustainability demands. The graduating students of this program shall be equipped with requisite skill-sets required to assume leadership positions in the different sectors of industry, further their career in higher studies, or embark on entrepreneurial ventures to address present day unmet challenges of the country.
+
+Objectives of the program
+[Back to index]
+
+The objectives of this program are:
+
+to equip new generation aspiring minds with engineering linked chemical science skill sets enabling them to opt for challenging career paths at various levels of academia and industry;
+to impart education towards understanding of the concepts of chemical science, basic engineering, and allied areas enabling the students to tackle societal problems through an interdisciplinary approach;
+to integrate analytical and computational abilities with experimental skills to create individuals competent in professional science practices;
+to facilitate and promote entry into research at an early stage through a flexible and borderless curriculum;
+to inculcate an attitude towards commitment to scientific ethics, leadership qualities, entrepreneurship, and professional development for the future generation;
+to instil the approach of collaborative research between academia and industry targeting sustainability.
+Expected Graduate Attributes
+[Back to index]
+
+Graduates of the program are expected to have following attributes:
+
+Strong understanding of fundamentals of science and engineering with emphasis on chemical science.
+A strong foundation in the analytical, experimental, and computational methods to study various aspects of chemical science.
+Foundations for critical thinking that are needed to broaden their careers in diverse cross-disciplines.
+Ability to acquire new knowledge, integrate in the existing paradigm, and innovate solutions as per the requirement.
+Capability to appreciate synthetic methods for the development of important chemical products such as pharmaceuticals, agrochemicals, paints, petrochemicals, food additives, plastics, etc.
+Ability to handle analytical, spectroscopic, microscopic and other instrumentation methods for interdisciplinary research areas.
+Use of computational tools to understand and analyse chemical and biophysical processes, molecular structures and advanced materials.
+Ability to comprehend, write, and present scientific articles and technical reports.
+Ability to engage in ethical and responsible practices while pursuing professional growth.
+Learning Outcomes
+[Back to index]
+
+Acquire strong fundamentals in theoretical and practical aspects of organic, inorganic and physical chemistry as well as other branches of basic science and engineering. 
+Apply the concepts of science and basic engineering to analyse and design complex novel materials, and molecular complexes having potential applications to society.
+Develop skills on hands-on wet chemistry, analytical, instrumentation, and experimental data handling to tackle scientific problems.
+Perform literature review and patent landscaping for innovative research.
+Develop communication skills by participating in classroom presentations, seminars and workshops on manuscript / patent writing / presentation skills.
+Value of team work and group discussion in problem solving, and time management to continue co-curricular activities without compromising academics.
+To understand professional ethics and social responsibilities.
+New skill sets targeted
+[Back to index]
+
+Industry-R&D-Academia collaboration on cutting edge science and technologies is the key for the growth of the country. Hence students need to delve into domains ranging from sustainable materials synthesis to molecular complex design, computational chemistry, organic synthesis for pharmaceuticals, agriculture
+industries to industrial Catalysis that are critical to meet future needs. In the pursuit of novel materials, molecules and catalysts relevant for today’s Circular Chemistry (Recycle and Reuse, rather than take-make-dispose) that enables a circular economy requires comprehensive understanding of the specialization areas.
+
+Proposed Specialization Areas
+[Back to index]
+
+Spectroscopy and Dynamics
+Computational Chemistry
+Catalysis & Synthesis
+Advanced Energy Materials
+Entrepreneurship
+Program Structure
+[Back to index]
+
+Credit Distribution
+Table-BS_Chem1  (use the horizontal scroll bar to see the full table)
+
+S.No.	Course Type	Course Category	Credits	Total Credits
+1	Institute Core (I)	Engineering (IE)	29	70
+Science (IS)	18
+Humanities (IH)	12
+2	Program Linked (L)	Program Linked Courses (PL)	11
+3	Program Core (P)	Program Compulsory (PC)	 	60
+Program Elective (PE)
+4	Specialization (S)	Specialization Core (SC)	12	30
+Specialization Elective (SE)	18
+5	Non-Graded (N)	Humanities (NH)	6	15
+Engineering (NE)	3
+Design/Practical Experience (ND)	6
+ 	Total	175
+Those who are opting for specialization in Entrepreneurship will be required to earn 10 credits via relevant specialization electives.
+Program Compulsory Courses
+[Back to index]
+Table-BS_Chem_Compulsory  (use the horizontal scroll bar to see the full table)
+
+S. No.	Course Name & Course Code	LTP	Contact Hours	Credit
+1	Basic Organic Chemistry	3-0-0	3	3.0
+2	Physical Organic Chemistry and Photochemistry	3-0-0	3	3.0
+3	Purification and Characterization of Organic Molecules	3-0-0	3	3.0
+4	Biochemistry	3-0-0	3	3.0
+5	Fundamental Inorganic Chemistry	3-0-0	3	3.0
+6	Chemistry of Elements	3-0-0	3	3.0
+7	Coordination and Bioinorganic Chemistry	3-0-0	3	3.0
+8	Organometallics	3-0-0	3	3.0
+9	Chemical Kinetics, Photochemistry and Theory of Solutions	3-0-0	3	3.0
+10	Structural Chemistry	3-0-0	3	3.0
+11	Atomic and Molecular Structure	3-0-0	3	3.0
+12	Fundamentals of Molecular Spectroscopy	3-0-2	5	4.0
+13	Thermodynamics, Chemical Equilibria, Phase Equilibria and Electrochemistry	3-0-0	3	3.0
+14	Statistical Mechanics	2-0-0	2	2.0
+15	Entrepreneurship for Chemists	2-0-0	2	2.0
+16	BS Project	0-0-3	3	3.0
+17	Organic Chemistry Lab 1	0-0-3	3	1.5
+18	Organic Chemistry Lab 2	0-0-3	3	1.5
+19	Inorganic Chemistry Lab 1	0-0-3	3	1.5
+20	Inorganic Chemistry Lab 2	0-0-3	3	1.5
+21	Physical Chemistry Lab 1	0-0-3	3	1.5
+22	Physical Chemistry Lab 2	0-0-3	3	1.5
+23	Basic Computational Lab	0-0-3	3	1.5
+24	Applied Computational Lab	0-0-3	3	1.5
+25	Materials Characterization Lab	0-0-2	2	1.0
+ 	Total	60.0
+Semester Wise Courses
+[Back to index]
+
+Courses for Semester 1st and 2nd
+[Back to index]
+Table-BSCHEM-Sem12  (use the horizontal scroll bar to see the full table)
+
+1st Semester (BS Chemistry)	Category	Course Name	L-T-P	Credits	 	2nd Semester (BS Chemistry)	Category_	Course Name_	L-T-P_	Credits_
+1	IE	EEL1010: Introduction to Electrical Engineering	3-0-2	4	 	1	IE	MEL1010:Engineering Mechanics	2-1-0	3.0
+2	IE	CSL1010: Introduction to Computer Science	3-0-2	4	2	IS	CYL1010:Chemistry	3-0-0	3.0
+3	IE	BBL1010: Introduction to Bioengineering	3-0-2	4	3	IS	PHL:1010 Electromagnetism and OpticsPhysics	3-0-0	3.0
+4	IS	MAL1010: Mathematics 1	3-1-0	4	4	IS	MAL1020: Mathematics II	3-1-0	4.0
+5	IE	MEP1010: Engineering Visualization	0-0-2	1	5	IS	PHP1010:Physics Laboratory	0-0-2	1.0
+6	NE	OAE1010: Engineering Design 1	0-0-2	1	6	IS	CYP1010:Chemistry Lab	0-0-2	1.0
+7	NH	HSN1010: Communication Skill 1	0-0-2	1	7	IE	MEP1020:Engineering Realization	0-0-2	1.0
+8	NH	OSN1010: Social Connect and Responsibilities	0-0-1	0.5	8	NE	OAE1020: Engineering Design II	0-0-2	1.0
+9	NH	OSN1020: Performing Arts 1/ Sports 1	0-0-1	0.5	9	NH	HSN1020:Communication Skill II	0-0-2	1.0
+ 	Total Graded	17	10	NH	OSN1040: Social Connect and Responsibilities	0-0-1	0.5
+ 	Total Non-Graded	3	11	NH	OSN1050: Performing Arts 2/ Sports 2	0-0-1	0.5
+ 	 	 	 	Total Graded	16.0
+ 	 	 	 	Total Non-Graded	3.0
+Courses for Semester 3rd and 4th
+[Back to index]
+Table-BSCHEM-Sem34  (use the horizontal scroll bar to see the full table)
+
+3rd Semester (BS Chemistry)	Category	Course Name	L-T-P	Credits	 	4th Semester (BS Chemistry)	Category_	Course Name_	L-T-P_	Credits_
+1	PL	Scientific Computation	3-0-2	4.0	 	1	PC	Thermodynamics, Chemical Equilibria, Phase Equilibria, and Electrochemistry	3-0-0	3.0
+2	PC	Basic Organic Chemistry	3-0-0	3.0	2	PC	Chemistry of Elements	3-0-0	3.0
+3	IE	Introduction to Machine Learning	3-0-2	4.0	3	PL	Modelling and Simulation	3-0-2	4.0
+4	PC	dd Fundamental Inorganic Chemistry	3-0-0	3.0	4	IE	Data Structure and Algorithms	3-0-2	4.0
+5	IE	Signals and Systems	3-1-0	4.0	5	PL	Design and Analysis of Experiments	3-0-0	3.0
+6	PC	Organic Chemistry Lab 1	0-0-3	1.5	6	PC	Inorganic Chemistry Lab 1	0-0-3	1.5
+7	PC	Basic Computational Lab	0-0-3	1.5	7	PC	Physical Chemistry Lab 1	0-0-3	1.5
+8	NE	Intro. To Profession	0-0-2	1.0	8	IH	Humanities I	3-0-0	3.0
+ 	 	 	Total Graded	21.0	 	 	 	Total Graded	23.0
+ 	 	 	Total Non-Graded	1.0	 	 	 	Total Non-Graded	0.0
+Courses for Semester 5th and 6th
+[Back to index]
+Table-BSCHEM-Sem56  (use the horizontal scroll bar to see the full table)
+
+5th Semester (BS Chemistry)	Category	Course Name	L-T-P	Credits	 	6th Semester (BS Chemistry)	Category_	Course Name_	L-T-P_	Credits_
+1	PC	Biochemistry	3-0-0	3.0	 	1	PC	Fundamentals of Molecular Spectroscopy	3-0-2	4
+2	PC	Physical Organic Chemistry and Photochemistry	3-0-0	3.0	2	PC	Organometallics	3-0-0	3
+3	PC	Atomic and Molecular Structure	3-0-0	3.0	3	PC	Purification and Characterization of Organic Molecules	3-0-0	3
+4	PC	Statistical Mechanics	2-0-0	2.0	4	PC	Chemical Kinetics, Photochemistry, and Theory of Solutions	3-0-0	3
+5	PC	Coordination and Bioinorganic Chemistry	3-0-0	3.0	5	PC	BS Project	0-0-3	3
+6	PC	Applied Computational Lab	0-0-3	1.5	6	PC	Entrepreneurship for Chemists	2-0-0	2
+7	PC	Materials Characterization Lab	0-0-2	1.0	7	PC	Inorganic Chemistry Lab 2	0-0-3	1.5
+8	PC	Organic Chemistry Lab 2	0-0-3	1.5	8	PC	Physical Chemistry Lab 2	0-0-3	1.5
+9	IH	Humanities II	3-0-0	3.0	9	NH	Professional Ethics II	0-0-2	1
+10	NH	Professional Ethics I	0-1-0	1.0	 	 	 	 	 
+ 	 	 	Total Graded	21.0	 	 	 	Total Graded	23
+ 	 	 	Total Non-Graded	1.0	 	 	 	Total Non-Graded	0
+Courses for Semester 7th and 8th
+[Back to index]
+Table-BSCHEM-Sem78  (use the horizontal scroll bar to see the full table)
+
+7th Semester (BS Chemistry)	Category	Course Name	L-T-P	Credits	 	8th Semester (BS Chemistry)	Category_	Course Name_	L-T-P_	Credits_
+1	SC	Specialization Core 1	3-0-0	3	 	1	SE	Specialization Elective	3-0-0	3
+2	SC	Specialization Core 2	3-0-0	3	2	SE	Specialization Elective	3-0-0	3
+3	SC	Specialization Core 3	3-0-0	3	3	SE	Specialization Elective	3-0-0	3
+4	SC	Specialization Core 4	3-0-0	3	4	SE	Specialization Elective	3-0-0	3
+5	PC	Structural Chemistry	3-0-0	3	5	SE	Specialization Elective	3-0-0	3
+6	IH	Humanities III	3-0-0	3	6	SE	Specialization Elective	3-0-0	3
+7	IS	Environmental Science	2-0-0	2	7	IH	Humanities IV	3-0-0	3
+ 	 	 	Total Graded	20	 	 	 	Total Graded	21
+ 	 	 	Total Non-Graded	0	 	 	 	Total Non-Graded	0
+
+
+
+
+Master of Technology Programs
+ 	1.	M.Tech. (Bioscience & Bioengineering)
+ 	2.	M.Tech. (Computer Science & Engineering)
+ 	3.	M.Tech. (Artificial Intelligence)
+ 	 
+ 	4.	M.Tech. (Cyber Physical Systems)
+ 	5.	M.Tech. (Sensors and Internet of Things) Discontinue from AY 2026-27
+ 	6.	M.Tech. (Data and Computational Sciences)
+ 	 
+ 	7. 	M.Tech. (Advanced Manufacturing and Design)
+ 	8.	M.Tech. (Thermofluids Engineering)
+ 	9.	M.Tech. (Materials Engineering)
+ 	 	 
+ 	10.	M.Tech. (Chemical Engineering)
+ 	11.	M.Tech. (Environmental Engineering)
+ 	12.	M.Tech. (Energy Infrastructure)
+ 	 	 
+ 	13. 	
+M. Tech (Communication Systems)
+
+ 	14.	MTech AR VR
+ 	15.	Robotics
+ 	16.	Quantum Technologies
+ 	17.	Bridge Engineering
+ 	18.	Drone and Anti-Drone Technologies
+
+
+
+Master of Science Programs
+
+ 	1.	M.Sc. (Chemistry)
+ 	2.	M.Sc. (Mathematics)
+ 	3.	M.Sc. (Physics)
+ 	4.	M.Sc.(Digital Humanities)
+ 	5.	M.Sc. (Computational Social Science)
+
+
+
+Doctor of Philosophy Programs
+
+
+
+Core Sciences
+
+ 	1.	Ph.D. (Chemistry)
+
+ 	2.	Ph.D. (Mathematics)
+
+ 	3.	Ph.D. (Physics)
+
+
+
+ Engineering Sciences
+
+ 	1.	Ph.D. (Biosciences and Bioengineering)
+
+ 	2.	Ph.D. (Computer Science & Engineering)
+
+ 	3.	Ph.D. (Electrical Engineering)
+
+ 	4.	Ph.D. (Mechanical Engineering)
+
+ 	5.	Ph.D. (Metallurgical & Materials Engineering)
+
+ 	6.	Ph.D. (Chemical Engineering)
+
+ 	7.	Ph.D. (Civil and Infrastructure Engineering)
+
+ 	 	 
+
+ Inter-disciplinary Areas
+
+ 	1.	Ph.D. (Robotics and Mobility Systems)
+
+ 	2.	Ph.D. (Digital Humanities)
+
+ 	3.	Ph.D. (Quantum Information and Computation)
+
+ 	4.	Ph.D. (Smart Healthcare)
+
+ 	5.	Ph.D. (Space Science & Technologies)
+
+
+
+ Schools
+
+ 	 Ph.D. (School of Artificial Intelligence and Data Science)
+
+ 	 Ph.D. (School of Liberal Arts)
+
+ 	 Ph.D. (Management and Entrepreneurship)
+
+         Ph.D. (Schools of Design)
+
+ 	 
+
+ Centers
+
+ 	1. Ph.D. (Center for Emerging Technologies for Sustainable Development -CETSD )
+
+ 	2. Ph.D. (Center for Education Technology -CET)
+
+        3. Ph.D. (Center for Mathematical and Computational Economics)
+
+        4. Ph.D. (Center for Internet of Things (IoT) & Applications)
+
+        5. Ph.D. (Rishabh Center for Research and Innovation in Clean Energy)
+
+        6. Ph.D. (Center for Technology Foresight and Policy)
+
+ Program Portfolio
+The Office of Executive Education at the Indian Institute of Technology (IIT) Jodhpur plays a pivotal role in providing advanced, flexible education to working professionals in various high-demand technical fields. With a mission to bridge the gap between industry requirements and professional expertise, the office offers a wide range of programs, including Online M.Tech, Postgraduate Diplomas (PGD), Postgraduate Certificates (PGC), and specialized certification courses. The emphasis is on providing accessible, high-quality education that aligns with the evolving needs of industries such as Artificial Intelligence (AI), Data Engineering, Augmented Reality/Virtual Reality (AR/VR), VLSI, and more.
+
+Online M.Tech Programs: The online M.Tech programs are a key component of IIT Jodhpur's Executive Education offerings. Designed to cater to working professionals, these programs offer the flexibility of online learning while maintaining the rigor of traditional on-campus courses. By focusing on cutting-edge technologies, these programs equip students with skills that are highly valued in today's fast-evolving tech landscape.
+
+Online M.Tech in Artificial Intelligence (AI)
+Online M.Tech in Data and Computational Sciences (DCS)
+Online M.Tech in Remote Sensing and Mobility (RMS)
+Online M.Tech in Augmented Reality/Virtual Reality (AR/VR)
+Online Executive M.Tech. in Intelligent VLSI Systems (IVS)
+Online M.Tech in Data Engineering (DE)
+Postgraduate Diploma (PGD) Programs
+
+The PGD programs at IIT Jodhpur are designed for professionals looking to gain specialized knowledge in fields like Data Engineering, Omics Technologies, and AI. These programs are shorter than M.Tech programs but focus intensely on practical applications, making them highly valuable for professionals aiming for specific career advancements.
+
+PGD in Data Engineering (PGD DE)
+PGD in Artificial Intelligence (AI)
+PGD & Certificate in Next Generation OMICS Technologies and Applications
+PGD in Data Engineering and Cloud Computing (DECC)
+Postgraduate Certificate (PGC) Programs
+
+The PGC programs are shorter, more focused courses aimed at professionals looking to enhance specific skills in areas like Omics and Data Analytics. These programs allow professionals to upskill quickly without committing to longer-term academic programs.
+
+PGC in Data Analytics (DA)
+PGC in Artificial Intelligence and Machine Learning (AI & ML)
+Online MBA Tech Program (2024)
+
+In 2024, the launch of the MBA Tech program in 2024 marks an important diversification of IIT Jodhpur’s offerings, blending technology and management education to create leaders capable of driving innovation in tech industries enrolling 96 students.
+
+The Executive Education programs at IIT Jodhpur have proven successful in addressing the growing demand for high-tech skills among working professionals. Through a combination of M.Tech, PGD, PGC, and the newly introduced MBA Tech programs, the Office of Executive Education continues to expand its reach and impact, providing valuable education that aligns with industry requirements. As IIT Jodhpur continues to grow its executive education portfolio, it will play an increasingly important role in shaping the careers of professionals and advancing the technological capabilities of industries across India and beyond.
+
+Featured Programs
+
+S.No.	Programme Name
+1	Executive M.Tech in Data and Computational Sciences (DCS)
+2	Executive M.Tech in Robotics & Mobility Systems (RMS)
+3	Executive M.Tech in Augmented Reality/Virtual Reality (AR/VR)
+4	Executive M.Tech in Intelligent VLSI Systems (IVS)
+5	Executive M.Tech in Data Engineering (Stackable Programme transition from Post Graduate Diploma in Data Engineering)
+6	PG Diploma in Data Engineering (DE)
+7	Executive M.Tech in Artificial Intelligence (Stackable Programme transition from Post Graduate Diploma in AI)
+8	PG Diploma in Artificial Intelligence (AI)
+9	MBA Tech
+10	Post Graduate Certificate in AI&ML
+11	PG Diploma and PG Certificate I and II in Next - Generation OMICS Technologies and Applications (Certificate Program I) and (Certificate II)
+12	Online BSc. Program in Applied AI and Data Science
+
+View All Programs
+
+
+
+Academic Calendar
+
+Academic Calendar BS / BSC 
+Academic Calendar PG-Certificate/PG Diploma/MBA-Tech  
+Academic Calendar PG-Certificate in Machine Learning and Artificial
+
+
+
+Masters of Design (MDes) 2025
+Overview
+The MDes programs at the School of Design, IIT Jodhpur combine creativity, technology, and innovation to equip aspiring designers with the skills and industry exposure needed to push the boundaries of design. Whether you’re passionate about immersive experiences in XR Design or pioneering smart products for the future, this program provides the tools and expertise to bring your ideas to life. The School of Design, IIT Jodhpur currently offers two MDes programs: XR Design and Smart Product Design.
+
+
+MDes in XR Design
+The MDes XR Design is a pathbreaking program in the emerging area of Augmented Reality (AR), Mixed Reality (MR), and Virtual Reality (VR) experience design that addresses the growing need of the industry to create useful, engaging, and socially relevant experiences that extend the real world or live entirely in the virtual, in areas such as healthcare, entertainment, and education.
+
+
+MDes in Smart Product Design
+The world around us is undergoing a dramatic transformation. We are increasingly interconnected, with a growing number of everyday products evolving into intelligent companions. The MDes in Smart Product Design is crafted to meet the growing demand for professionals who can create innovative, user-centric products that harness the power of smart technology. This program is designed to bridge the gap between cutting-edge technologies, user experience (UX) principles, and design methodology. We aim to delve into the world of smart products, from connected devices to AI-powered systems, learning to design seamless interactions that not only leverage technology's power but also enrich people's lives. This program is ideal for aspiring designers who are passionate about innovation and eager to push the boundaries of physical and digital experiences. As the world embraces smart technology, the demand for skilled designers who can create user-centered, intuitive, and intelligent products is skyrocketing. The MDes in Smart Product Design will prepare future designers to be leaders in this dynamic field, shaping the future of how we interact with the world around us.
+
+Undergraduate Program
+B. Tech in Bioengineering
+Duration: 4 years
+
+ 
+
+Introduction
+ 
+
+Every life form, beginning from microscopic bacteria to multicellular organisms, can be considered as a system that has been perfected over millennia by Evolution. Beginning from thermodynamically efficient cellular processes to the molecular motors driving the bacterial flagella, each product of evolution is an optimized engineering design that can be translated into real-life applications across disciplines. Today’s interdisciplinary biology is well complemented by engineering domains including electronics, computer science, mechanics, and materials engineering.  Computational biology, for example, permits solving biology problems using statistical, artificial intelligence and machine learning approaches. Extensive use of computational biology is essential in data-driven approaches including Genomics, Proteomics, Transcriptomics, and Metabolomics. This amalgamation of biology and computer science has transformed the landscape of the infectious and non-infectious diseases research allowing the development of new diagnostic and therapeutic modalities. Today’s disease diagnosis is much more specific and sensitive, thanks to biosensors, which have far-reaching applications not only in healthcare but also in the environment, energy, and agriculture. Some applications include in-situ biosensors for human biochemical parameters, environmental contaminants, soil moisture, soil physicochemical parameters, etc. Advances in Biology have not only permitted the early diagnosis of disease but have also contributed abundantly to therapeutic interventions. It is now possible to intervene in diseases taking a multi-pronged approach, including the development of new drugs; production of recombinant therapeutics; development of implantable sensors, control systems; and editing genetic defects. Similarly, synthetic biology and genome editing tools have enabled the development of industrially important organisms for biofuel production as well as environmental remediation. Together, these technologies have significantly contributed to extending the healthy lifespan of the human race and have shown promise towards food, water, and energy security. In other words, bioengineering as a discipline has evolved to a great extent in last couple of decades and now demands a different intellectual outlook and scientific understanding for its further study.  Therefore, an undergraduate academic program in Bioengineering should reflect this rapid evolution of the discipline, underlying scientific and technological advancements and interdisciplinary cross-talk so as to capture the mind of the next generation.
+
+The Indian Institute of Technology Jodhpur is committed to achieving excellence in shaping the young minds of tomorrow with a unique blend of teaching techniques and hands-on research-based learning. The Institute works towards the holistic development of students allowing them to be able to assume leadership positions in Industry, Academia, and Entrepreneurial ventures. The Department of Bioscience & Bioengineering is committed to this goal and has developed academic programs that are interdisciplinary in nature and include a substantial component of courses from other science and engineering Departments. The Department aspires to produce Graduates, who can develop solutions to tackle local and global problems related to healthcare, energy, environment, water, and food.
+
+ 
+Objectives of the program
+ 
+
+The B. Tech. program in Bioengineering at IIT Jodhpur aims to equip our graduates with in-depth knowledge and hands-on training in areas that will be relevant for the next decade. The curriculum attempts to deliver theoretical and practical content that will be needed to address societal needs that will challenge our Graduates globally as well as locally. This includes an unconventional and highly interdisciplinary approach towards problem-solving.
+
+The key objectives of this program are:
+
+(i) To provide a strong foundational understanding of the concepts in biology, engineering, mathematics, and allied sciences, enabling students to approach bioengineering problems through interdisciplinary lenses.
+
+(ii) To stimulate the development of disruptive technologies and futuristic research in the domains of healthcare, energy, and the environment.
+
+ 
+
+Expected graduate attributes
+ 
+
+Graduates of the B. Tech program in Bioengineering will:
+
+(i) be able to choose, design, develop and implement engineering solutions to solve technical problems in bioscience and bioengineering using trans-disciplinary knowledge and skill set.
+
+(ii) be able to think out-of-the-box to solve critical challenges and be able to innovate novel technologies for affordable healthcare, clean energy, sustainable agriculture, and a safe environment.
+
+(iii) be able to work effectively as a member and leader in a multi-disciplinary team.
+
+(iv) have the requisite skills and knowledge to be bio-entrepreneurs.
+
+(v) be able to effectively communicate biological/ bioengineering problems and solutions within the professional sphere and with the society at large.
+
+(vi) be committed to high ethical standards in professional and social practices.
+
+ 
+
+Learning outcomes
+ 
+
+Graduates of the B. Tech program in Bioengineering will:
+
+(i) Will have a comprehensive understanding of the essential concepts of bioscience and bioengineering encompassing cell and molecular biology, physiology, immunology, microbiology, genetics, genetic engineering, multi-omics, computational and systems biology.
+
+(ii) Will gain trans-disciplinary knowledge and skillsets pertaining to biosensors, bioimaging, biomedical device development, biomaterials engineering, and drug discovery.
+
+(iii) Will be able to design, develop, and implement technological solutions related to affordable healthcare, clean energy, sustainable agriculture, and a safe environment adopting a trans-disciplinary approach.
+
+(iv) Will gain a strong understanding of the fundamentals of basic science, engineering, designing, computing and will get hands-on training on cutting edge technologies.
+
+(v) Will be able to apply the knowledge of artificial intelligence and machine learning in solving complex biological problems.
+
+(vi) Will learn to think critically to solve complex problems pertaining to bioscience and bioengineering.
+
+(vii) Will develop communication skills (verbal and written) to communicate effectively in the professional and social sphere.
+
+(viii) Will be committed to high ethical standards.
+
+(ix) Will gain the knowledge and skills required to be an innovator-entrepreneur.
+
+ 
+
+New skillsets targeted
+ 
+
+ Ability to:
+
+(i) design and develop AI-based technologies in healthcare, environment, and agriculture.
+
+(ii) analyze the spatial complexity of living systems using imaging and image processing.
+
+(iii) analyze and solve complex problems in the diverse fields of bioscience and bioengineering using omics and systems biology.
+
+(iv) integrate multidisciplinary technologies for the development of lab-on-chip devices, biosensors, and other smart devices.
+
+(v) integrate omics data to quantitative structure-activity relationship for drug discovery and development
+
+(vi) design and develop smart biomaterials using micro- and nano-scale technologies
+
+(vii) design novel strategies for tissue engineering application
+
+(viii) design new therapeutic molecules in silico.
+
+ 
+
+B.Tech in Bioengineering with Specialization
+Duration: 4 years
+
+ 
+
+The students will have the opportunity to choose the specializations while pursuing their regular B. Tech degree. The department is presently offering two specializations (listed below). The department specializations are designed to enable students to cater to the emerging industrial and societal challenges in various domains of Bioengineering. 
+
+Therapeutic Engineering and Drug Discovery
+Microbial Systems Engineering
+
+
+Undergraduate Programs
+B.Tech. Computer Science and Engineering (CSE)
+The B.Tech. program in Computer Science and Engineering (CSE) at IIT Jodhpur aims to equip its students with skills to undertake careers that involve identifying and engineering solutions for real-world problems, through innovating upon their core competence in computer science. The curriculum gives due importance to the foundational aspects of computer science, as well as aspires to inculcate in students the foresight and expertise to address transdisciplinary technological questions. Students can choose from a number of elective courses that strive to expand their understanding of emerging concepts and processes across domains such as Theory and Algorithms, Hardware, Systems, Network and Security, Artificial Intelligence, Machine Learning, Speech, Vision, Language, and Social Computing.
+
+The program also encourages its students to opt from a number of exclusive interdisciplinary specialization tracks, that are envisaged to provide a coherent and sophisticated understanding of underlying subject-areas, to empower them to pursue myriad career paths. Some of these specializations are:
+
+ Visual Computing
+
+ Socio-Digital Reality
+
+ Advanced Algorithms
+
+ Social and Sustainable Computing
+
+ Intelligent Communication and Networking
+
+ VLSI Systems
+
+The program aspires to produce a well prepared, motivated workforce who would valiantly embark upon careers in research and industry involving innovation, knowledge creation, engineering, and entrepreneurship. All students who have graduated from the department thus far are currently placed in companies of repute or are pursuing higher education in top-tier universities in the country and the rest of the world.
+
+ Detailed curriculum for B.Tech. CSE  (Download file: 633 KB)
+
+ Details of courses offered by Dept. CSE  (Download file: 908 KB)
+
+ Specializations  (Download file: 244 KB)
+
+ Regulations for Undergraduate Programs  (Download file: 536 KB)
+
+B.Tech. Artificial Intelligence and Data Science (AI&DS)
+Starting 2020, IIT Jodhpur will be offering a unique undergraduate program in Artificial Intelligence and Data Science, that envisions to equip students with the ability to assess societal, health, safety, legal and cultural issues, and - most importantly - identify their consequent responsibilities as engineers of effective solutions for the same.
+
+The curriculum is interdisciplinary at heart - straddling computer science, mathematics, artificial intelligence, machine learning, data science, and their applications across numerous domains. Besides Artificial Intelligence, Deep Learning, Digital Image Processing, Computer Vision and Video Processing, the program will be training its students in a range of exclusive courses like:
+
+ Biometrics
+
+ Dependable AI
+
+ Resource-constrained AI
+
+ Big Data
+
+ Data Engineering and Data Visualization
+
+ Stream Analytics
+
+ Social Network Analysis
+
+ Human-Machine Interaction
+
+ Augmented and Virtual Reality
+
+ Speech and Natural Language Understanding
+
+ Computational Neuroscience
+
+
+ Undergraduate Program
+The vision of the Department is to develop a world class teaching and research atmosphere by excelling in fundamental knowledge and applications of Electrical Engineering through curricular and co-curricular activities. To accomplish this, the department offers an undergraduate program in the broad discipline of electrical engineering, with embedded capability-linked specializations, for enabling the  students to pursue a chosen career path. The 4 year B.Tech program provides the core electrical engineering concepts ranging from circuit analysis and design, computing, control, communication, signal processing, and power engineering. To equip the students with the essential knowledge and problem solving skills, the curriculum provides strong foundations in basic sciences. In addition, the engineering design component is integrated throughout the structure, motivating and familiarizing students with real-world engineering challenges. Additional problem-solving skills and practical experiences are developed through design projects and state-of-the-art laboratory experiments. The structure enables the students to shape their curriculum at various stages. This includes opting for a department specialization, transition to 5-year B.Tech. and M.Tech. Dual Degree program, an additional minor in relevant areas such as Entrepreneurship.
+
+
+
+Salient Features of the UG Programs
+New broad-based curriculum and flexible program structure
+Balance of theoretical foundations, hands-on, and experiential learning
+Emphasis on design-oriented thinking, creativity, and life-long learning
+Capability-linked Minor, Interdisciplinary, and Department-specific Specializations
+Skillset targeted towards emerging technologies like 5G & Beyond Communication, Industry 4.0, & Smart City Technologies
+Prepares students to compete effectively in a world of rapid technological advancements
+Option to pursue entrepreneurship & industry collaboration through engineering innovation
+Startup ecosystems to translate ideas into business models (Tinkering Lab, Technology Innovation & Startup Center (TISC), & Research Park)
+Expected Graduate Attributes
+Strong understanding of fundamentals of mathematics, science and engineering with emphasis on electrical technologies for Communication, Signal Processing, Devices & Circuits, Computing Systems, Control Engineering, and Power Engineering
+Ability to apply technical skills to identify, formulate, and solve complex problems encountered in modern electrical engineering practices
+Ability to model, analyze, design and experimentally evaluate electrical components or systems that achieve desired technical specifications, subject to certain resource constraints
+Ability to compete effectively in a world of rapid technological advancements and assume leadership roles within academic, industrial, or entrepreneurial environments in the broad context of electrical engineering
+Foundations for critical thinking that are needed to broaden their careers in diverse disciplines through minor/graduate-level studies and the process of lifelong learning
+Ability to recognize and practice professional ethics in working environment
+Ability to acquire new knowledge and apply it as needed
+
+
+Learning Outcomes
+To acquire knowledge of electrical engineering principles along with the required understanding of computing, engineering fundamentals, mathematics, and science
+To apply the concepts of mathematics, sciences and engineering (including computing science) necessary to analyze and design complex electrical and electronic circuits and systems containing hardware and software modules
+To gain in-depth understanding of concepts of Signals, Devices, Circuits, Systems, Machine Learning, Programming, Control, Communications, Hardware Design and related interdisciplinary topics
+To create, select, and apply appropriate techniques, resources, electrical engineering design and computing tools to solve complex engineering problems with an understanding of the limitations through laboratory exercises and design projects
+To perform literature review and patent landscaping for innovative research
+To adapt to work in multidisciplinary environment
+To understand professional ethics and social responsibilities
+To communicate effectively
+To engage in independent and life-long learning in the context of technological advancements.
+To conduct product design or entrepreneurial activities
+
+
+BTech (4 Years)
+This program is designed to provide students a basic exposure to Engineering with focus on the various domains of Electrical Engineering. These domains have been broadly divided into following areas: Communication, Computing Systems, Control Engineering, Devices and Circuits, Signal Processing, and Power Engineering. The program aims to connect academics to current emerging technologies and industrial requirements in these domains. 
+
+The program also encompasses rigorous experimental components along with global standard courses comparable to top most universities. The program is also flexible enough to provide students options to shape the curriculum according to their interest.  Students having inclined interest in any specific area as specified above can opt for relevant specialization. 
+
+BTech with Specialization (4 Years)
+The curriculum offers flexibility to students for pursuing capability-linked specializations of their choice. The department specializations are designed to enable students to lead technological innovations addressing the emerging industrial and societal challenges in various domains of electrical engineering. The EE students can opt for any one of the departmental specializations as mentioned below. The in-depth understanding and technical skills acquired through these specializations will enable graduates to play a vital role in advancement of technologies such as 5G/6G communications, smart cities, smart healthcare, and Industry 4.0. Students with research inclination also have options for  5-year B.Tech. and M.Tech. Dual Degree program. 
+
+Department Specializations (Click on the respective links to know more about these specializations)
+
+ Cyber Physical Systems 
+
+ Communication Engineering
+
+ Intelligent Communication and Networking
+
+ Visual Computing
+
+ Socio-digital Reality
+
+ Artificial Intelligence of Things (AIoT)
+
+ VLSI Systems
+
+ Nano and Flexible Electronics
+
+ Smart Grid
+
+ Engineering Innovation
+
+BTech with Minor (4 Years)
+The institute also offers a 4-year B.Tech. program with minors in Entrepreneurship or Management or interdisciplinary specializations. Such a flexible curriculum enables students to pursue diverse career goals by choosing the curriculum based on their interests.Students will also have an opportunity to opt for a B. Tech. - Master’s dual degree in their chosen specialization or minor area. The curriculum also offers numerous options that enable students to gain industrial experience through collaborative industrial projects at industries and entrepreneurship experience at the Institute's incubation centre.
+
+
+
+BTech-MTech Dual-degree (5 Years)
+A B.Tech. student having opted for major/minor specialization with CGPA 6 or more at the end of the seventh semester and fulfilling minimum credit requirements may be allowed to switch to B.Tech.- M. Tech. dual degree program in the chosen specialization at the beginning of the eighth semester. The M.Tech degree can be any one of the approved programmes of the institute. All requirements of M.Tech. Degree will be applicable to all such students. 
+
+ B.Tech-M.Tech Dual Degree in SIoT
+
+ B.Tech-M.Tech Dual Degree in CPS
+
+
+
+BTech-MBA (5 Years)
+IIT Jodhpur also provides options to BTech students to earn a Tech-MBA degree via a transition program. Students having inclination towards business can opt for this dual-degree program at the start of 5th semester. This program offers a range of specializations such as  Business Analytics, Cyber Security, Financial Engineering, Technology Consulting, Technology Product Management.
+
+The Tech-MBA is a reflection of the growing demand for business leaders to have an exposure in various technological fields such as artificial intelligence (AI), fintech and robotics.  Tech-MBA is a new wholesome program totally focussing on the tech sector such as digital finance, data analytics and AI, as well as digital transformation. The aim of such a program is to enable students to apply their tech expertise within a business context. The program focuses on covering important aspects of corporate strategy analysis of top tech companies, like Amazon, Google, and tech-centric companies, such as start-ups in addition to business strategy. The economics and operations are going to be introduced with strong emphasis on the digital economy and supply chain in e-commerce companies respectively.
+
+Undergraduate Program
+Department Vision
+Reckoned as one of the most versatile engineering disciplines, Mechanical Engineering virtually touches every aspect of modern life, from mobile phones and biomedical devices to aircrafts and power plants. It is concerned with technological advancements through the development of products, processes, and power, at scales ranging from nano-scale to large and complex systems. Mechanical Engineering principles and skills are involved at some stage during the conception, design, development, and manufacture of every human-made object. While design and manufacturing involve the design of mechanisms and the analysis of materials, thermo-fluid systems include methods of energy conversions, heat transfer, and fluid flow. Future innovations crucial to the country’s growth will always have their roots in the world of mass, motion, forces, and energy- the world of mechanical engineers. At IIT Jodhpur, mechanical engineers are therefore trained, educated, and positioned, in a way not only to adapt but to define direct change. This is reflected in the portfolio of current activities of the department.
+
+Our faculty are involved in a wide range of projects in the areas of Energy conversion and power systems, heat transfer and fluid mechanics, mechanics of solid, mechanical vibrations, robotics, autonomous unmanned vehicles, design optimization, acoustics and noise control, control systems, rotor dynamics, micro-nano materials and applications, biomechanics, bio-inspired thermofluids, fluid structure interaction, etc. to name a few. Additionally, efforts are being made to introduce advanced concepts like smart manufacturing, Industry 4.O, applications of artificial intelligence (AI), machine learning algorithms, sensors, and IoT as a part of solving mechanical engineering problems. Keeping a balance between theory and hands-on experience, the department intends to provide its students with a solid foundation in core as well as emerging areas of mechanical engineering by inspiring critical thinking and nurturing problem-solving skills.
+
+The department currently offers B.Tech in Mechanical Engineering. A wide range of specialization related courses is currently offered. Students also undergo B.Tech projects from the second year onwards to develop analytical skills and gain hands-on experience. Keeping a balance between theory and hands-on experience, the department intends to provide its students with a solid foundation in core as well as emerging areas of mechanical engineering by inspiring critical thinking and nurturing problem-solving skills.
+
+The curriculum offers flexibility to students for pursuing capability-linked specializations of their choice, namely, Micro-Nano Engineering, Energy Engineering, Design Engineering, Smart Manufacturing.
+
+UG-Department-Vision
+
+UG program image
+Programs
+The salient features of different UG programs run by the Department of Mechanical Engineering are as follows:
+
+Regular B.Tech. 
+
+Duration: 4 years
+Emphasis on core mechanical subjects.
+Last semester dedicated to industrial training and projects.
+Possibility of engineering science students to choose mechanical stream as their specialization.
+B.Tech. with specialization
+
+Duration: 4 years
+Department Specialization: Micro nano-engineering, Energy engineering, Design engineering, Smart manufacturing.
+Interdisciplinary: Entrepreneurship or management, Smart healthcare, Artificial intelligence, Robotics, and mobility systems.
+B.Tech. - M.Tech. Program 
+
+Duration: 5 years
+Double degree aligned to specialization or minor area.
+Possibility of obtaining B.Tech and M.Tech double degree within 5 years of induction to the program
+UG Program
+
+UG program image
+Key Objectives 
+Enabling students to have a fundamental understanding of the core concepts of Mechanical Engineering
+Developing analytical and computational ability with experimental skills to create individuals competent in professional engineering practices
+Stimulating critical thinking towards the application of mechanical engineering concepts in interdisciplinary problem solving
+Fostering students to advanced concepts like AI & ML, Industry 4.0, and IoT for product and system design
+Inculcating an attitude towards the commitment to engineering ethics, leadership qualities, and professional development.
+New Skillsets Targeted
+Multi- and interdisciplinary approach
+Computer-aided design/modeling software/additive and smart manufacturing
+Latest industrial pursuits in the areas of automation, robotics, and smart scientific computing, microfluidics, hybrid and electric automotive vehicles
+Design and experimental validation of computational designs in the fields of alternative energies
+Advanced materials selection techniques
+Advanced mechanical testing and characterization techniques
+Familiarity with advanced and futuristic scientific computing techniques
+Graduate Attributes
+Graduates of the B.Tech program in Mechanical Engineering will have:
+
+Strong understanding of fundamentals of Thermofluids, Mechanical Design, and Manufacturing (Processes and Systems)
+Ability to apply mechanical engineering principles to address challenges in real-life problems through creative interdisciplinary thinking
+Ability to use different simulation and computational tools for a better understanding and designing of mechanical processes/systems
+Capability to appreciate the use of some of the advanced concepts like AI & ML, Robotics, Industry 4.0, IoT in Mechanical Engineering applications
+Awareness of grassroots problems of the society and the ability to provide technological solutions of sustainable nature. 6. Entrepreneurial spirit to undertake disruptive innovations
+Skills to communicate engineering concepts and ideas to peers in written or oral forms
+Commitment to professional ethics and have humanitarian engineering skills.
+Learning Outcomes
+The graduates of the B.Tech. program in Mechanical Engineering will:
+
+Gain a strong understanding of mathematics, science, and engineering fundamentals of mechanical engineering
+Be able to design and conduct experiments as well as to analyze and interpret data
+Be introduced to concepts including engineering design / optimization / sensors fabrication / computational methods / simulation tools / thermal systems / refrigeration / heat transfer/ fluid flows/ nanomaterials/ AI/ IoT/ Smart Computing for various applications
+Have the ability to design a mechanical system, component, or process tailored to meet desired needs under socio-economic and environmental constraints
+Be exposed to common problems that are prevalent in the domains of energy storage, systems and devices, clean energy, and nano-materials, futuristic technology, and advanced scientific computation methods, allowing them to innovate and develop technological solutions for the same
+Receive effective, hands-on laboratory training as a part of laboratory courses and short-term research projects
+Develop their communication skills by participating in classroom presentations, seminars, and workshops on manuscript/patent writing/presentation skills
+
+Bachelor of Technology Programs:
+B. Tech. in Chemical Engineering
+Double B.Tech. in Chemical Engineering and Engineering Science
+
+Chemical Engineering ug
+Engineering disciplines have become increasingly interdisciplinary in nature and Chemical Engineering is not an exception to that. The flexibility of opting for different specialization is ingrained in formulating the structure and curriculum of the Chemical Engineering program. Traditionally, Chemical Engineering teaching is focused on transport phenomena, chemical engineering thermodynamics, mass transfer, fluid mechanics, heat transfer, chemical kinetics, computational systems, and process control. With the advent of the era of Artificial Intelligence (AI), Machine Learning (ML), Molecular Engineering, Industry 4.0 in Chemical Plants; the discipline is being transformed by the incorporation of new emerging technologies. Through this Under-Graduate (UG) program in Chemical Engineering, IIT Jodhpur is making a conscious effort to divulge from the traditional path and planning to establish itself to become a leading institute in this new genre of Chemical Engineering education, which includes foundational courses, fundamental courses in chemical engineering, emerging areas in chemical engineering, and sustainability aspects for chemical engineers.
+
+The undergraduate program begins with students pursuing a common foundation in mathematics, physics, chemistry, engineering sciences, engineering design, and programming.
+
+Students are expected to build on these foundations with a concentration on core chemical engineering subjects ranging from material and energy balance, process control, chemical engineering thermodynamics to chemical reaction engineering. Core courses are followed by a set of departmental electives that enable students to target their degree program towards in-depth knowledge of areas matching their specific interests.
+
+The program ensures that the design experience, which includes both analytical studies and experiments, is integrated throughout the curriculum in a structured manner leading to advanced work.
+
+Students can tailor their focus areas in consultation with a faculty advisor. Students can choose their departmental electives (streams) from the following areas:
+
+Chemical Engineering Design
+Process Engineering Intelligence
+Molecular Engineering
+Sustainability
+Complex Fluids & Interfacial Engineering
+Biochemical Engineering
+Chemical Engineering ug
+
+Program Objective & Attributes
+The key objectives of the program are:
+
+Enable students to have fundamental understanding of the core concepts of Chemical Engineering
+Offer opportunities for specialization in emerging and multidisciplinary areas including Molecular Engineering, Data Science and AI applications, Polymer Engineering, Sustainability, Biochemical Engineering and Complex Fluids & Interfacial Engineering
+Empower students with emerging concepts for plant design in context of chemical engineering via courses designed with AI, ML, and Industry 4.0 applications
+Integrate analytical and computational ability with experimental skills to create individuals competent in professional engineering practices in the domain of Chemical
+Inculcate an attitude towards commitment to engineering ethics, leadership qualities, entrepreneurship and professional development.
+
+
+Learning Outcomes
+Graduates of the B.Tech. program in Chemical Engineering will:
+
+Gain a strong understanding of mathematics, science and engineering fundamentals of Chemical engineering including the concepts of material and energy balance; computational methods; transport phenomena; reaction engineering; mass transfer; thermodynamics; heat transfer; fluid mechanics and process control
+Have the ability to design a process equipment or plant to meet desired requirements under socio-economic and environmental constraints.
+Be equipped with knowledge of emerging domains: (i) Data Science & AI applications; (ii) Molecular Engineering.
+Have technical capability for addressing sustainability issues related to water, energy and environment.
+Receive effective hands-on laboratory training as a part of laboratory courses and short-term research projects, and be able to design and conduct experiments as well as to analyse and interpret data.
+Develop their communication skills by participating in classroom presentations, entrepreneurial events, seminars and workshops.
+
+M.Tech.
+Inter-Disciplinary Research Platformon on
+
+Quantum Information and Computation
+
+Invites applications for MTech in Quantum Technologies
+
+Program open for: B.Tech./B.E./M.Tech. in CSE, EE,Data Science
+
+and Artificial Intelligence, ECE, Materials Engineering
+
+OR M.Sc. in Physics, Chemistry, Mathematics and Computer Science
+
+
+
+Further information: https://iitj.ac.in/qic/
+
+Apply at: Click Here
+
+Due-date: 20 April 2024
+
+During the last three decades, the field of quantum technologies has received much public attention, all due to the efforts from academia and industry to bring quantum information and computation to the verge of technology development. The fusion of fundamental laws of quantum mechanics with computing and information theory has led the path toward performing computation in the quantum realm. The significant development towards shifting the computing paradigm from classical to quantum- and from theory to technological implementation- can be attributed to groups of researchers across the globe and multinational giants like IBM, Google, D-wave, Microsoft, Honeywell, Ion Q, Intel, Hewlett Packard, Regetti, Cambridge quantum computing, and Quantum Biosystems, to name a few.
+
+In alignment with the Government of India's initiative in Quantum Technologies, the Inter-Disciplinary Research Platform for Quantum Information and Computation (IDRP QIC) at IIT Jodhpur is launching a unique interdisciplinary initiative to create manpower with advanced skills and technical know-how in the domain of quantum technology.
+
+IIT Jodhpur faculty members in departments of Computer Science and Engineering, Electrical Engineering, Physics, Chemistry, Mathematics, Chemical Engineering, and Materials Engineering are working on various aspects of quantum technology. In view of the technological development and importance of the area, the Institute already offers a compulsory course for B.Tech. students on Quantum Information and Computation from July 2019 onwards. Moreover, the Institute offers a minor in Quantum Information and Computation for B.Tech. students. Furthermore, IDRP-QIC at IITJ has an established interdisciplinary Ph.D. program in QIC and quantum technology from July 2019.
+
+Apart from handling individual projects in Quantum Information and Computation, faculty members of the IDRP-QIC in IIT Jodhpur are actively involved in QuEST, with sponsored projects- currently ongoing- in collaboration with other institutes. The group is approaching industry partners and startups for academic and research collaborations to strengthen the state-of-the-art further.
+
+Quantum computing has applications in cybersecurity, computational chemistry and drug development, financial modeling, materials and battery technologies, traffic optimization, weather forecasting and study of climate change, machine learning, Artificial Intelligence, etc. Many enterprises and their ventures are investing and entering in this domain to take a strategic lead further. There will be a need for trained manpower to tap the full potential of quantum technologies and accelerate the ongoing developments for wider applications.
+
+For that, IITJ proposed to offer a two-year M.Tech. program on quantum technologies offering specialization in the following domains:
+
+
+
+Objectives of the MTech program
+
+
+MTech program structure
+The two-year M.Tech. program on Quantum Technologies (MT-QT) starts with foundation core courses covering various aspects of this interdisciplinary domain in the first semester. The students will be specialized in one of the following four areas through a bouquet of compulsory and elective specialization courses,
+
+Quantum Computing
+Quantum Communications
+Quantum sensing and devices
+Quantum materials.
+
+B.Tech
+Through undergraduate programs, the department aims to provide an expanded but holistic understanding of different civil and infrastructure systems and an in-depth understanding of the differences, similarities, and relations between different scales and components of it. The students will be trained to integrate conventional methods with emerging technologies to design intelligent civil and infrastructure systems from a multidisciplinary perspective. They also get exposed to advanced transformative techniques such as Internet-of-Things (IoT), machine learning, big data, cyber-physical systems, and digital twin (DT) in the design and maintenance of different civil and infrastructure systems. The undergraduate programs offered by the department are as follows.
+
+B Tech [Regular] Civil and Infrastrcuture Engineering
+B Tech Civil and Infrastrcuture Engineering with specialization in Environmental Engineering
+B Tech Civil and Infrastrcuture Engineering with specialization in Smart Infrastructure
+
+
+Doctoral Program
+Introduction
+The department of chemistry hosts Ph.D. program in Chemistry.  The objective of the program is to provide unique opportunities and a vibrant environment to the motivated researchers to perform research in both fundamental and applied areas of chemistry. Our PhD program provides opportunities to students in a wide array of chemical disciplines including Computational Molecular Biophysics and Gas-Phase Reaction Dynamics, Quantum Information Processing, Biophysical Chemistry using fluorescence spectroscopy and NMR,  Nanomaterials & Nanodevices, Advanced Materials Chemistry,  Asymmetric Catalysis, Natural Products & Medicinally Active Compounds Synthesis, Catalysis for Energy, Environment Remidiation, Water and Soil Chemistry, Asymmetric and Homogeneous Catalysis, Synthesis of Organic Compounds, Alternative Biofuels, Main-group Organometallic Chemistry. 
+
+PhD students have the freedom to choose their courses and research topics for thesis research. Moreover, we encourage graduate students to rotate in several different labs for first semester while taking the courses under guidance of Department Research Committee (DRC). PhD students have many opportunities for professional development, including teaching, communication, networking, outreach, and participation in regional, national, and international conferences and meetings. They are also part of departmental committees such as seminars, classes etc. These activities, together with research, make our students competitive for many career paths that include academia, industry, government, and national laboratories, among others. The institute offers unique opportunity to a PhD student to avail one-year fellowship for any translational activities related to the thesis upon submission. The patent-landscaping being an integral part of the research plan and PhD curriculum at IIT Jodhpur is another unique feature.
+
+
+
+IMPORTANT NOTE:
+
+Rolling Advertisement for Admission to Ph.D. Programs
+
+
+
+Link to fill online application form
+For further information, click here
+For information about research areas, Applicants are strongly advised to visit the webpages of faculty members
+
+
+Contact us
+Issues related to online application: office_academics_pg@iitj.ac.in
+Issues related to payments: oa_automation@iitj.ac.in
+Details about PhD program: office_chemistry@iitj.ac.in
+Watch/follow/connect: Facebook/ Twitter
+
+
+
+Note: Students can apply for PhD position throughout the year...
+Interviews for prospective doctoral students are held twice during the year (May and December) following which they can join from the semester beginning after getting accepted. Candidates get enrolled to the department and take course work in consultation with the Department Research Committee and Faculty Advisor and generally start their research work under the respective faculty member from the second semester. Doctoral students are also engaged in Teaching Assistantship (TA) duties in supervising undergraduate laboratories and courses.
+
+
+
+Students enrolled in PhD program of Department
+
+he Department of Mathematics hosts the Ph.D. degree Program. The Ph.D. Program at the Department of Mathematics, IIT Jodhpur is offered with the objective of tapping unique opportunities by evolving both motivated researchers in the frontline areas and a well-trained workforce in the form of teaching faculty. The Program strives to provide a vibrant environment to nurture the knowledge and interpersonal skills of the students in pursuit of developing a well-trained workforce. Further details about the doctoral program can be seen here   (Download file: 263 KB).
+
+The selected candidates shall go through course works as per the institute's regulations and then a comprehensive exam will follow for which syllabus can be found here.
+
+The Ph.D. program of the Department is uniquely designed to train students with required abilities viz. deep technical knowledge, technical communication skills (both oral and written), understanding of intellectual property issues and general writing skills so as to enable them to effectively manage their professional requirement at respective work places. Department has a unique combination of young and experienced faculty having high research profile in the respective domains. Department provides opportunities to the student to pursue advanced research in a wide range of new and emerging research domains including the following:
+
+Advanced Multi-functional Materials and Devices
+Astrophysics
+Computational Condensed Matter Physics
+High Energy Particle Physics
+Materials for Energy Harvesting and Storage
+Materials & Technologies for Strategic Applications
+Molecular Devices
+Nanoscience & Nanotechnology
+Non-linear Optics
+Photonics
+Plasma Physics and Cold Plasma Technology
+Quantum Computing and Information
+Quantum Optics
+Soft Matter Physics
+
+
+The high level of research is enabled by a motivated group of expert faculty members supported by a large pool of high-end advanced research equipments and computational facilities.
+
+
+
+
+Some of the salient features of the Ph.D. program are as under:
+
+Opportunities to pursue multidisciplinary as well as transdisciplinary research
+Provision to have more than one supervisor from same or different subject streams
+Opportunities for participation in international collaborative projects
+Financial support to participate in International and National conferences
+Opportunity to use any laboratory facility of parent department as well as of any other department of the institute
+Access to equipment at Centre for Advanced Scientific Equipment (CASE)
+Access to Central Supercomputer for advanced computational work Access to large number of software resources including MATLAB, Mathematica, ANSYS, HFSS, etc.
+Compulsory Audit Course in IP Landscaping
+24x7 Access to large volume of Journals and other technical literature through Institute Knowledge Centre
+Compulsory course on Technical Communication Skills
+
+Introduction
+ 
+
+The doctoral program at the Department of Bioscience and Bioengineering (BSBE) permits students to undertake cutting edge research in the fields of Cellular & Molecular Neuroscience,  Bioimaging, Computational Biology & Bioinformatics, Microbial physiology, Genomics, Environmental Biotechnology, Chemical Biology, Structural Biology, Protein Engineering, Centrosome Biology, Immunology, Statistical Genetics, Biomaterials Engineering, Tissue Engineering, Nanomedicine, and Drug Delivery. The doctoral program constitutes the major pillar of the department research in strengthening the journey towards technological solutions healthcare, water, food, and environment.  The department strongly encourages interdisciplinary research in the interface of Biology, Chemistry, Computer Science, and Engineering.
+
+ 
+
+Objectives of the program
+ 
+
+The key objectives of the program are:
+
+(i) To unravel the basic functioning of biological systems through cellular and Molecular Biology (Neuroscience).
+
+(ii) To identify novel methods for early diagnosis, novel drugs, and personalized treatments.
+
+(iii) Developing tools and algorithms for biological data management & Drawing epigenetic inferences through the statistical genetics approach.
+
+(iv) To develop smart biomaterials and nanomaterials, nanotheranostics, drug delivery, tissue engineering, sensor platforms for applications in healthcare.
+
+(v) To develop processes for bioenergy and bioremediation.
+
+ 
+
+Expected graduate attributes
+ 
+Graduates will
+
+(i) Be able to think critically and solve problems that are necessary for employment in biomedical, biotechnology, pharmaceutical industries, national research labs, and academic institutions at the global level.
+
+(ii) Develop a sense of ownership on the national missions for technology development, which will cater to societal needs in the area of healthcare, energy, food, environment.
+
+(iii) Be exceptionally well trained in the laboratory enabling them to conduct high-quality, reproducible research.
+
+(iv) Be able to read, understand, and review intellectual property documents and recognize their rights.
+
+(v) Be able to express their research ideas and present their data clearly in written and spoken format.
+
+(vi) Develop a strong work ethic and understand ethical considerations in biological research, which are both necessary for high-quality research.
+
+(vii) Develop healthy time management skills to plan and manage laboratory work as well as other miscellaneous research-associated demands on their time to effectively meet deadlines.
+
+ 
+
+Learning outcomes
+ 
+
+Graduates will
+
+(i) Be introduced to cutting-edge, interdisciplinary research areas like cellular and Molecular Neuroscience, Novel drug development, Bio-Imaging, Systems & Synthetic Biology, Bioelectrochemical systems, bioenergy systems, and Biomaterials Engineering, Nanomedicine, protein engineering, Chemical Biology, Microbiology, Structural Biology.
+
+(ii) Be exposed to common problems that are prevalent in the domains of affordable healthcare/energy/water/environment.
+
+(iii) Receive effective, hands-on laboratory training as a part of laboratory courses and short-term research projects that are designed to teach research methodology and common lab techniques.
+
+(iv) Be introduced to Patents and other intellectual property documents, the rights that they grant, and necessary considerations while filing patents/technology that is protected by patents.
+
+(v) Develop their research communication skills by participating in seminars, journal clubs; manuscript writing, and research grant writing workshops.
+
+(vi) Receive training on building a work ethic by being a part of research groups working towards a common goal. Graduates will also appreciate the ethical and safety considerations while conducting biomedical research.
+
+(vii) Be taught how to prioritize items on their schedule and how to budget time across the spectrum of activities including research and other necessary tasks.
+
+ M.Tech.-Ph.D. Dual Degree CSE & M.Tech.-Ph.D. Dual Degree AI
+IIT Jodhpur has been offering MTech-PhD dual-degree programs since July 2019. These programs have been designed particularly for students with an inclination for research. Students who have completed their B.Tech. are eligible to join this program. Students complete their M.Tech. course work and then start their research, and earn both M.Tech. and Ph.D. degrees - at the end of the program. There are two distinct aspects of these programs: first, it provides an avenue for students to earn both degrees in a far lesser duration compared to if these were done individually, and second, students are awarded a fellowship equivalent to that of a JRF from the date of their joining. Academically, these programs facilitate students to decide upon their area of research by the end of the first semester. After a phase of rigorous coursework in the first two years, they start working towards the academic requirements of a PhD that includes a comprehensive exam, state-of-the-art seminar, publications in top conferences and journals, and a thesis. The students can also work on industry projects and collaborate with faculty from other academic/research bodies. This program offers the benefit of PhD level scholarship from the first year itself and the integrated courses and research helps in reducing the overall time of completing MTech and PhD.
+
+The Department of CSE is currently offering two such programs: MTech-PhD Dual-degree in CSE and MTech-PhD Dual-degree in AI, and is continuously looking for motivated and capable students to conduct advanced research in all areas of Computer Science and AI (please visit the "Research" page for more details). The coursework requirements of these programs are similar to the corresponding MTech programs, and other support (travel support, institute mobility grant, fellowship schemes in addition to that from the Ministry of Education, etc.) and research related academic requirements are similar to the PhD program.
+
+ Revised curriculum for Dual Degree  (Download file: 441 KB) (AY 2022 Onwards)
+
+ Detailed curriculum for M.Tech.-Ph.D. Dual Degree CSE  (Download file: 114 KB)
+
+ Detailed curriculum for M.Tech.-Ph.D. Dual Degree AI  (Download file: 119 KB)
+
+ Detailed curriculum for M.Tech.-Ph.D. Dual Degree CSE  (Download file: 58 KB) (AY 2021 Onwards)
+
+ Detailed curriculum for M.Tech.-Ph.D. Dual Degree AI  (Download file: 55.6 KB)(AY 2021 Onwards)
+
+ Details of courses offered by Dept. CSE  (Download file: 908 KB)
+
+ Regulations for Postgraduate Programs  (Download file: 536 KB)
+
+Ph.D. CSE
+The Ph.D. program at the Department of Computer Science and Engineering (CSE) at IIT Jodhpur is postgraduate-research-oriented. A Ph.D. student works in an area of his/her interest under the supervision of a faculty member(s) and also has the flexibility to have an industry expert as co-supervisor. The student has to complete the Ph.D. qualifier requirements, which involve a minimum number of credits by taking courses, a comprehensive exam, state-of-the-art seminar, and research proposal defense. The doctoral program’s salient feature is the independent research work taken by scholars, leading to a thesis at the end of the program. The average duration of a PhD. program is between four to five years.
+
+The CSE department invites students with a "research" bent of mind to apply for admission to the Ph.D. program. The Ph.D. applicant must have high aspiration and willingness to work on socially relevant cutting-edge problems. The department expects that an aspirant has strong foundations in core Computer science subjects. The department offers admission to the Ph.D. program in categories like Full-Time, Part-Time.
+
+Ph.D. Tracks
+
+MoE Funded Ph.D.
+Ph.D. Funded by Exciting Projects
+Joint Ph.D. (JPD) With SUNY Buffalo (UB)
+Broad Research Areas
+
+AI & ML
+CV, AR-VR
+Systems & S/W
+Theoretical Computer Science
+Some Specific Areas of Interest Include: Health Informatics; Social Network Analysis; Cryptography; Computational Social Choice Theory; Parameterized & Randomized Algorithms; Graph Algorithms; Natural Language Understanding; Quantum Computation; VANET; Internet of Things (IoT); Blockchain; Network Security…
+
+ Our Research Areas and Labs
+
+Compute Facilities & Coursework
+
+Industry focused & research-driven courses
+Industry-supported labs
+Modern high-end GPU clusters including NVIDIA DGX A100, DPU coming
+State-Of-The-Art testbeds in VANET
+Samsung sponsored AR-VR lab
+Opportunity to attend courses from adjunct and visiting faculties from industries and top universities in India and abroad
+Research Opportunities
+
+Industry-sponsored projects (Meta, IBM, TCS, DRDO, Microsoft, Accenture)
+Projects with government agencies on real-world problems (DRDO, AIIMS, PGI, Law Enforcement)
+Close collaborations with iHub Drishti – a Technology Innovation Hub focused on “Computer Vision, AR & VR”
+Joint projects with IMSc, IIT Bombay, IIT Kharagpur, IIIT Guwahati, IIT Delhi, IIIT Hyderabad, IISc Bangalore, SUNY Buffalo, The Hong Kong Polytechnic University,
+Missouri University of Science and Technology, IIT Hyderabad, Ben-Gurion University of the Negev
+Publications at top venues
+Support for attending conferences
+Student reading groups and webinars by leading experts
+Alumni
+
+Our alumni are at different places in industry & academia: Charles University, State University of Texas, American Express, Czech Technical University in Prague, IIT Roorkee
+
+ Regulations for Doctoral Programs  (Download file: 536 KB)
+
+ Details of courses offered by the Department CSE  (Download file: 908 KB)
+
+ Apply for admission
+
+ Details of comprehensive papers  (Download file: 146 KB)
+
+Joint Ph.D. (JPD) with SUNY Buffalo (UB)
+Requirements
+
+Students interested in being admitted into the JPD need to be first selected into the full-time PhD program in CSE at either Institution as per selection procedures of that Institution.
+JPD selection procedures will be initiated within 6-12 months of the student enrolling in the PhD program. Students selected into the JPD program shall be enrolled on a full-time basis at both Institutions.
+Before the student matriculates to UB - as a part of the residency requirement the student must fulfill UB’s minimum academic admission conditions
+UB’s required minimum score in English for language proficiency requirements (i.e. TOEFL, IELTS, PTE, CPE, CAE or DET)
+GATE (or equivalent as specified by MoE, Govt. of India) from India is mandatory.
+While the program specifically admits exceptional students following their completion of an appropriate Bachelor’s degree, it will also admit those who will have completed an appropriate Master’s degree.
+Features
+
+Dissertation will be jointly directed by faculty from both institutions
+Students will be awarded two separate PhD degrees, one from each institution
+Students will need to spend approximately equal time at each institution
+When in residence at UB, scholarship will cover tuition costs and a living allowance (stipend)
+When in residence at IITJ, scholarship will be at par with PhD students at IITJ
+When enrolled as a full-time PhD student at UB, all broad-based fees will be waived off. Covered fees include comprehensive fee, academic excellence and success fee, student activity fee, and international student fee (wherever applicable)
+Students will have access to funding for research costs from the laboratory where research is being conducted
+
+PhD Program at Department of Electrical Engineering
+The Department of Electrical Engineering offers PhD in a wide range of emerging and challenging research areas of electrical engineering and allied interdisciplinary areas of communication engineering, RF, microwaves & photonics, control engineering, power engineering, signal processing and computing systems, and microelectronics & VLSI. The areas can also be mapped with the current technology tracks of the Department that include 5G and Beyond Communication, Signal Processing & Interpretation, Cyber-Physical Systems, Nano-electronics & Integrated Circuits, Smart Grid, Embedded systems & SoC, and Artificial Intelligence & Internet-of-Things (IoT). Please visit Research Overview to know the associated research areas, laboratories, and faculty members associated with each technology track and research area.
+
+Our PhD students are trained to conduct high-quality cutting-edge research demonstrated through tangible deliverables, and to publish in top ranking journals and conferences. Specially-designed courses on technical communication and Intellectual Property Rights enable students in quality expression as well as patent landscaping for potential IP and business translation of their work. Weekly colloquium enables the students to keep open avenues of sharing ideas and learning from peers. Students have round-the-clock access to high-end research and computational facilities, and also have the opportunity of one additional year of fellowship after thesis submission to engage in translational and entrepreneurial initiatives arising out of their PhD work. On graduation, our doctoral students are trained in critical thinking, research, development, operations and management of emerging technological challenges for both industry and academia.
+
+Doctor of Philosophy Programs: Engineering Sciences
+Ph.D. Chemical Engineering
+
+Doctor of Philosophy in Chemical Engineering is focussed in a manner so that research scholar masters the different skills required for the research work, creatively shape and solve the complex problems, translate molecular information into new products and processes, generate new research ideas and IPR. The focus of the doctoral research  would be:
+
+Translate molecular information to new products and processes with 3D printing and Industry 4.0+
+Generate new research ideas and IPR
+
+M.Tech.
+Inter-Disciplinary Research Platformon on
+
+Quantum Information and Computation
+
+Invites applications for MTech in Quantum Technologies
+
+Program open for: B.Tech./B.E./M.Tech. in CSE, EE,Data Science
+
+and Artificial Intelligence, ECE, Materials Engineering
+
+OR M.Sc. in Physics, Chemistry, Mathematics and Computer Science
+
+
+
+Further information: https://iitj.ac.in/qic/
+
+Apply at: Click Here
+
+Due-date: 20 April 2024
+
+During the last three decades, the field of quantum technologies has received much public attention, all due to the efforts from academia and industry to bring quantum information and computation to the verge of technology development. The fusion of fundamental laws of quantum mechanics with computing and information theory has led the path toward performing computation in the quantum realm. The significant development towards shifting the computing paradigm from classical to quantum- and from theory to technological implementation- can be attributed to groups of researchers across the globe and multinational giants like IBM, Google, D-wave, Microsoft, Honeywell, Ion Q, Intel, Hewlett Packard, Regetti, Cambridge quantum computing, and Quantum Biosystems, to name a few.
+
+In alignment with the Government of India's initiative in Quantum Technologies, the Inter-Disciplinary Research Platform for Quantum Information and Computation (IDRP QIC) at IIT Jodhpur is launching a unique interdisciplinary initiative to create manpower with advanced skills and technical know-how in the domain of quantum technology.
+
+IIT Jodhpur faculty members in departments of Computer Science and Engineering, Electrical Engineering, Physics, Chemistry, Mathematics, Chemical Engineering, and Materials Engineering are working on various aspects of quantum technology. In view of the technological development and importance of the area, the Institute already offers a compulsory course for B.Tech. students on Quantum Information and Computation from July 2019 onwards. Moreover, the Institute offers a minor in Quantum Information and Computation for B.Tech. students. Furthermore, IDRP-QIC at IITJ has an established interdisciplinary Ph.D. program in QIC and quantum technology from July 2019.
+
+Apart from handling individual projects in Quantum Information and Computation, faculty members of the IDRP-QIC in IIT Jodhpur are actively involved in QuEST, with sponsored projects- currently ongoing- in collaboration with other institutes. The group is approaching industry partners and startups for academic and research collaborations to strengthen the state-of-the-art further.
+
+Quantum computing has applications in cybersecurity, computational chemistry and drug development, financial modeling, materials and battery technologies, traffic optimization, weather forecasting and study of climate change, machine learning, Artificial Intelligence, etc. Many enterprises and their ventures are investing and entering in this domain to take a strategic lead further. There will be a need for trained manpower to tap the full potential of quantum technologies and accelerate the ongoing developments for wider applications.
+
+For that, IITJ proposed to offer a two-year M.Tech. program on quantum technologies offering specialization in the following domains:
+
+
+
+Objectives of the MTech program
+
+
+MTech program structure
+The two-year M.Tech. program on Quantum Technologies (MT-QT) starts with foundation core courses covering various aspects of this interdisciplinary domain in the first semester. The students will be specialized in one of the following four areas through a bouquet of compulsory and elective specialization courses,
+
+Quantum Computing
+Quantum Communications
+Quantum sensing and devices
+Quantum materials.
+
+The Department offers Ph.D. programs in all five major domains of Civil & Infrastructure Engineering: 
+
+1. Transportation Engineering
+2. Environmental Engineering
+3. Structural Engineering
+4. Geotechnical and Geological Engineering
+5. Hydraulics and Water Resources Engineering
+
